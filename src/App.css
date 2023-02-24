@@ -1,0 +1,52 @@
+body {
+  padding: 50px;
+}
+h2 {
+  text-align: center;
+  color: #0B132A;
+  font-size: 30px;
+}
+.form{
+  margin: 30px 0;
+  border: 2px solid hsl(0, 90%, 59%);
+  padding: 1rem 2rem;
+  border-radius: 10px;
+}
+
+.form-style {
+  margin-top: 25px;
+  
+}
+
+.form-style label {
+  font-size: 20px;
+  font-weight: bold;
+  color: #0B132A;
+}
+.form-style input {
+    padding: 1rem ;
+    width: 70%;
+    border: 2px solid #DDDDDD;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.form-style #reasonforbeingagoodfit {
+  height: 120px;
+  
+}
+.form-style #submit {
+  border: 2px solid #F53838;
+  background-color: transparent;
+  display: block;
+  margin: auto;
+  width: 30%;
+  margin: 30px auto 20px auto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #F53838;
+  border-radius: 10px;
+}
+.form-style #submit:hover {
+  background-color: #F53838;
+  color: #ffffff;
+}
